@@ -1,0 +1,20 @@
+{
+  "questions": [
+    {
+      "question": "What is your name",
+      "answer": "BOT"
+    },
+    {
+      "question": "What is the color of the sky",
+      "answer": "Blue"
+    },
+    {
+      "question": "hii",
+      "answer": "hello"
+    },
+    {
+      "question": "who is abhishek",
+      "answer": "he is a boy"
+    }
+  ]
+}
